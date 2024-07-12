@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-transform: capitalize;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    width: 80%;
+    height: 50rem;
+    border: 2rem solid black;
+    background: blue;
+}
